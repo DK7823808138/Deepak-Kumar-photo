@@ -1,2 +1,2 @@
 # Deepak-Kumar-photo
-Here are some photos that I clicked 
+its a stock prediction model based on random random forest.
